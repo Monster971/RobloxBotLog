@@ -7,7 +7,7 @@ local HttpService = game:GetService("HttpService")
 Players.PlayerAdded:Connect(
 	function(ConnectedPlayer)
 		
-		local WebHookURL = "https://discord.com/api/webhooks/1321587562451570759/JGV2Qrlb0T9PQjJfHHLMlQljAyWc1Q-NKJp1RlNbEJw8lxOIwwk456wn9JhBcL8-jOGA"
+		local WebHookURL = "Seu WebHook"
 		
 		local LogInfo = {}
 		
